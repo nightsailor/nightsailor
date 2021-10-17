@@ -14,24 +14,19 @@
 <br>
 <br>
 <img src="https://komarev.com/ghpvc/?username=nightsailor&color=blueviolet">
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-<!-- Hi there, I'm **Mohammad Talha**, a **Software Engineering student** 🚀 from Hyderabad, India. -->
-🚀 Hyderabad, India.
-
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
-<br />
-
+<br /><br />
 **About Me!**
 
-<!-- - 👨🏽‍💻 I’m currently working as a CSA at Nixxe Solutions. commented-->
+- 🚀 Hyderabad, India.
 - 🌱 I’m currently exploring Devops. 
 - 🤔 My interests are UI development and developing some useful and cool stuff xD
 - 💼 I’m pursuing a Bachelor's degree in Computer Science.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [mohammedtalha1432@gmail.com](mailto:mohammedtalha1432@gmail.com).
 
-<br /><br />
+<br /><br /><br /><br />
 **Languages and Tools:**  
 
 
