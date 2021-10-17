@@ -17,8 +17,6 @@
 <br />
 
 **About Me!**
-<br><br>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=nightsailor&show_icons=true&hide_border=true" alt="Talha's GitHub Stats">
 - 🚀 Hyderabad, India.
 - 🌱 I’m currently exploring Devops. 
 - 🤔 My interests are UI development and developing some useful and cool stuff xD
