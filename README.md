@@ -16,18 +16,14 @@
 <!-- <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
 <br />
 
-**About Me!**
-- 🚀 Hyderabad, India.
-- 🌱 I’m currently exploring Devops. 
-- 🤔 My interests are UI development and developing some useful and cool stuff xD
-- 💼 I’m pursuing a Bachelor's degree in Computer Science.
-- 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [mohammedtalha1432@gmail.com](mailto:mohammedtalha1432@gmail.com).
-<br /><br />
+🚀 Hyderabad, India.<br />
+🌱 I’m currently exploring Devops.<br />
+🤔 My interests are UI development and developing some useful and cool stuff xD<br />
+💼 I’m pursuing a Bachelor's degree in Computer Science.<br />
+💬 Ask me about anything, I love to answer!<br />
+📫 Email me at [mohammedtalha1432@gmail.com](mailto:mohammedtalha1432@gmail.com).<br />
 
-**Languages and Tools:**  
-
-
+<!-- **Languages and Tools:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -35,6 +31,5 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code> -->
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=nightsailor&show_icons=true&hide_border=true" alt="Talha's GitHub Stats"> -->
