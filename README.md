@@ -23,7 +23,7 @@
 - 💼 I’m pursuing a Bachelor's degree in Computer Science.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [mohammedtalha1432@gmail.com](mailto:mohammedtalha1432@gmail.com).
-<br />
+<br /><br />
 
 **Languages and Tools:**  
 
