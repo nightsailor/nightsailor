@@ -16,12 +16,17 @@
 <!-- <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
 <br />
 
-🚀 Hyderabad, India.<br />
-🌱 I’m currently exploring Devops.<br />
-🤔 My interests are UI development and developing some useful and cool stuff xD<br />
-💼 I’m pursuing a Bachelor's degree in Computer Science.<br />
-💬 Ask me about anything, I love to answer!<br />
-📫 Email me at [mohammedtalha1432@gmail.com](mailto:mohammedtalha1432@gmail.com).<br />
+- 🚀 Hyderabad, India.
+
+- 🌱 I’m currently exploring Devops.
+
+- 🤔 My interests are UI development and developing some useful and cool stuff xD
+
+- 💼 I’m pursuing a Bachelor's degree in Computer Science.
+
+- 💬 Ask me about anything, I love to answer!
+
+- 📫 Email me at [mohammedtalha1432@gmail.com](mailto:mohammedtalha1432@gmail.com).
 
 <!-- **Languages and Tools:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
