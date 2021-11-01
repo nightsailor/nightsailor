@@ -26,7 +26,7 @@
 
 - 💬 Ask me about anything, I love to answer!
 
-- 📫 Email me at [mohammedtalha1432@gmail.com](mailto:mohammedtalha1432@gmail.com).
+- 📫 Email me at [sulemanshah432@gmail.com](mailto:sulemanshah432@gmail.com).
 
 <!-- **Languages and Tools:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
