@@ -2,7 +2,7 @@
 
 <h3 title="hehehe"> Hey 👋, I'm Talha!</h3>
 
-<a href="https://www.linkedin.com/in/md-talha-927a5816a/">
+<a href="https://www.linkedin.com/in/muhammed-talha/">
   <img align="left" alt="Talha's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/mohdtalha1432/">
