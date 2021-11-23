@@ -8,7 +8,7 @@
 <a href="https://www.instagram.com/mohdtalha1432/">
   <img align="left" alt="Talha's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/people/Møhð-Táłhã/100021516188226/">
+<a href="https://www.facebook.com/mohammedtalha0/">
   <img align="left" alt="Talha's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br>
