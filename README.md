@@ -28,23 +28,27 @@
 &nbsp;<a href="https://www.instagram.com/mohdtalha1432"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/ height=28></a>  
 </p>
 
-
+<!--
 ---
 
-<!-- <details>
+<details>
   <summary>:zap: Most Used Languages</summary>
-  <br /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nightsailor&show_icons=true&locale=en&layout=compact" alt="nightsailor" />
+  <br><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nightsailor&show_icons=true&locale=en&layout=compact" alt="nightsailor" />
+</details>
 
   
 <details>
-  <br><summary>:zap: GitHub Stats</summary>
-  <br><img align="right" src="https://github-readme-stats.vercel.app/api?username=nightsailor&show_icons=true&locale=en" alt="nightsailor" />
-
+  <summary>:zap: GitHub Stats</summary>
+  <br><img src="https://github-readme-stats.vercel.app/api?username=nightsailor&show_icons=true&locale=en" alt="nightsailor" />
+</details>
 
 <details>
-  <br><summary>:zap: Streaks and Contributions</summary>
-  <br><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nightsailor&" alt="nightsailor" />
-</details> -->
+  <summary>:zap: Streaks and Contributions</summary>
+  <br><img src="https://github-readme-streak-stats.herokuapp.com/?user=nightsailor&" alt="nightsailor" />
+</details>
+
+
+---
 
 <h3 align="left">Stats, Activities and Contributions:</h3>
 
@@ -76,11 +80,11 @@
 <p align="left">
 <img src="https://github.com/nightsailor/nightsailor/raw/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
-</details>
+</details> -->
   
 ##
 
 <p align ="left"><img src="https://img.shields.io/github/last-commit/nightsailor/nightsailor?style=flat-square?color=blue&label=Last%20Updated%20" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nightsailor&label=Profile%20views&color=0e75b6&style=flat" alt="nightsailor" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nightsailor&label=Profile%20views&color=0e75b6&style=flat" alt="nightsailor" /> </p> -->
 
 [website]: https://nightsailor.github.io/
