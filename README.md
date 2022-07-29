@@ -4,7 +4,6 @@ I am Mohammed Talha! I am working on projects related to web development.
 - 👨🏽‍💻 Currently working on Next js projects
 - 🤝 Looking to collaborate with other developers & content creators
 - 🥅 2022 Goals: Contribute more to open source projects
-- 📫 Email me at [sulemanshah432@gmail.com](mailto:sulemanshah432@gmail.com)
 
 <h3>Connect with me:</h3>
 
