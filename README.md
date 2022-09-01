@@ -4,6 +4,6 @@
 
 ### Hi 👋
 I am Mohammed Talha! I am working on projects related to web development.
-- 👨🏽‍💻 Currently working on Next js projects
+- 🔭 Currently working on Next js projects
 - 🤝 Looking to collaborate with other developers & content creators
 - ⚡ 2022 Goals: Contribute more to open source projects
